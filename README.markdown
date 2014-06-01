@@ -8,7 +8,7 @@ To park in the same perfect spot, drive *slowly* until the red LED starts flashi
 
 ## Schematics
 
-The circuit is Arduino-compatible. That means it uses the ATmega microprocessor unit with the Arduino bootloader. However, there is no USB on board, the only way to communicate with the board is to use an FTDI breakout board similar to [this](https://www.sparkfun.com/products/9716). The ultrasound sensor used ("PING)))") is probably the most expensive component of this gizmo (I bought mine for about $30). I used Eagle to design and draw the schematics and the PCB.
+The circuit is Arduino-compatible. That means it uses the ATmega microprocessor unit with the Arduino bootloader. However, there is no USB on board, the only way to communicate with the board is to use an FTDI breakout board similar to [this](https://www.sparkfun.com/products/9716). The ultrasound sensor used ("PING)))") is probably the most expensive component of this gizmo (I bought mine for about $30). I used [Eagle](http://www.cadsoftusa.com/) to design and draw the schematics and the PCB.
 
 ## Firmware
 
