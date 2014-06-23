@@ -2,7 +2,7 @@
 
 Garage Parking Sensor is a gizmo that helps you park your car the perfect distance from the wall every time. It can also optionally serve as a presence sensor.
 
-<a href="https://www.flickr.com/photos/sudarkoff/14485954765" title="Garage parking sensor/assistant by George Sudarkoff, on Flickr"><img src="https://farm3.staticflickr.com/2913/14485954765_ab3991cbdd_s.jpg" width="75" height="75" alt="Garage parking sensor/assistant"></a>
+<a href="https://www.flickr.com/photos/sudarkoff/14485954765" title="Garage parking sensor/assistant by George Sudarkoff, on Flickr"><img src="https://farm3.staticflickr.com/2913/14485954765_ab3991cbdd_z.jpg" width="480" height="640" alt="Garage parking sensor/assistant"></a>
 
 ## Usage
 
