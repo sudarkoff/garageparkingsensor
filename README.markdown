@@ -2,6 +2,8 @@
 
 Garage Parking Sensor is a gizmo that helps you park your car the perfect distance from the wall every time. It can also optionally serve as a presence sensor.
 
+<a href="https://www.flickr.com/photos/sudarkoff/14485954765" title="Garage parking sensor/assistant by George Sudarkoff, on Flickr"><img src="https://farm3.staticflickr.com/2913/14485954765_ab3991cbdd_s.jpg" width="75" height="75" alt="Garage parking sensor/assistant"></a>
+
 ## Usage
 
 To save the sweet spot, using whatever means necessary - your spouse, a tennis ball suspended from the ceiling, a bunch of mirrors with lasers - park the car the disared distance away from the wall where the sensor is mounted (for best results, aim the sensor at your car's bumper). Once satisfied with the location of your car, push the Save button on the gizmo taking care not to interfere with the ultrasound beam between the sensor and the car. The distance will be saved into the non-volatile memory (meaning, it will survive the reboot or the loss of power).
